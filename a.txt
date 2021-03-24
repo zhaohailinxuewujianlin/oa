@@ -4,3 +4,4 @@
 3333333
 5555555
 update 01
+file delete
